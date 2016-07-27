@@ -235,7 +235,7 @@ Control PCB:
       Quantity: 2
   Minijacks:
     -
-      Quantity: '?'
+      Quantity: 23
   Potentiometers:
     -
       Value: Dual (6pin) 10K
