@@ -1,264 +1,264 @@
 Main PCB:
   Resistors:
     -
-      value: 100k
-      quantity: 32
-      code: [brown, black, black, orange, brown]
-      nameOnPCB: [R6, R8, R9, R10, R11, R14, R15, R18, R23, R24, R26, R28, R30, R32, R33, R34, R35, R37, R38, R41, R42, R48, R49,R54, R56, R57, R59, R61, R69, R80, R81, R85]
+      Value: 100k
+      Quantity: 32
+      Code: [brown, black, black, orange, brown]
+      "Name on PCB": [R6, R8, R9, R10, R11, R14, R15, R18, R23, R24, R26, R28, R30, R32, R33, R34, R35, R37, R38, R41, R42, R48, R49,R54, R56, R57, R59, R61, R69, R80, R81, R85]
     -
-      value: 10k
-      quantity: 16
-      code: [brown, black, black, red, brown]
-      nameOnPCB: [R17,R21, R22, R31, R46, R55, R60, R63, R66, R67, R71, R75, R82, R83, R84, R87]
+      Value: 10k
+      Quantity: 16
+      Code: [brown, black, black, red, brown]
+      "Name on PCB": [R17,R21, R22, R31, R46, R55, R60, R63, R66, R67, R71, R75, R82, R83, R84, R87]
     -
-      value: 560k
-      quantity: 6
-      code: [green, blue, black, orange, brown]
-      nameOnPCB: [R1, R4, R12, R27, R72, R74]
+      Value: 560k
+      Quantity: 6
+      Code: [green, blue, black, orange, brown]
+      "Name on PCB": [R1, R4, R12, R27, R72, R74]
     -
-      value: 1M
-      quantity: 6
-      code: [brown, black, black, yellow, brown]
-      nameOnPCB: [R19, R36, R39, R40, R65, R76]
+      Value: 1M
+      Quantity: 6
+      Code: [brown, black, black, yellow, brown]
+      "Name on PCB": [R19, R36, R39, R40, R65, R76]
     -
-      value: 2k2
-      quantity: 4
-      code: [red, red, black, brown, brown]
-      nameOnPCB: [R43, R44, R45, R47]
+      Value: 2k2
+      Quantity: 4
+      Code: [red, red, black, brown, brown]
+      "Name on PCB": [R43, R44, R45, R47]
     -
-      value: 3M
-      quantity: 4
-      code: [orange, black, black, yellow, brown]
-      nameOnPCB: [R13, R16, R20, R29 (put it in vertical)]
+      Value: 3M
+      Quantity: 4
+      Code: [orange, black, black, yellow, brown]
+      "Name on PCB": [R13, R16, R20, R29 (put it in vertical)]
     -
-      value: 1k
-      quantity: 4
-      code: [brown, black, black, brown, brown]
-      nameOnPCB: [R79, R88, R89, R90]
+      Value: 1k
+      Quantity: 4
+      Code: [brown, black, black, brown, brown]
+      "Name on PCB": [R79, R88, R89, R90]
     -
-      value: 4K7
-      quantity: 4
-      code: [yellow, violet, black, brown, brown]
-      nameOnPCB: [R70, R73, R77, R78]
+      Value: 4K7
+      Quantity: 4
+      Code: [yellow, violet, black, brown, brown]
+      "Name on PCB": [R70, R73, R77, R78]
     -
-      value: 110k
-      quantity: 4
-      code: [brown, brown, black, orange, brown]
-      nameOnPCB: [R2, R3, R50, R51]
+      Value: 110k
+      Quantity: 4
+      Code: [brown, brown, black, orange, brown]
+      "Name on PCB": [R2, R3, R50, R51]
     -
-      value: 22k
-      quantity: 2
-      code: [red, red, black, red, brown]
-      nameOnPCB: [R68, R86]
+      Value: 22k
+      Quantity: 2
+      Code: [red, red, black, red, brown]
+      "Name on PCB": [R68, R86]
     -
-      value: 180k
-      quantity: 2
-      code: [brown, gray, black, orange, brown]
-      nameOnPCB: [R53, R64]
+      Value: 180k
+      Quantity: 2
+      Code: [brown, gray, black, orange, brown]
+      "Name on PCB": [R53, R64]
     -
-      value: 470k
-      quantity: 2
-      code: [yellow, violet, black, orange, brown]
-      nameOnPCB: [R58, R62]
+      Value: 470k
+      Quantity: 2
+      Code: [yellow, violet, black, orange, brown]
+      "Name on PCB": [R58, R62]
     -
-      value: 75k
-      quantity: 1
-      code: [violet, green, black, red, brown]
-      nameOnPCB: [R25]
+      Value: 75k
+      Quantity: 1
+      Code: [violet, green, black, red, brown]
+      "Name on PCB": [R25]
     -
-      value: 10M
-      quantity: 1
-      code: [brown, black, black, green, brown]
-      nameOnPCB: [R5]
+      Value: 10M
+      Quantity: 1
+      Code: [brown, black, black, green, brown]
+      "Name on PCB": [R5]
     -
-      value: 20k
-      quantity: 1
-      code: [red, black, black, red, brown]
-      nameOnPCB: [R52]
+      Value: 20k
+      Quantity: 1
+      Code: [red, black, black, red, brown]
+      "Name on PCB": [R52]
   Diodes:
     -
-      value: 1N4148
-      quantity: 23
-      nameOnPCB: [D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D24, D25]
+      Value: 1N4148
+      Quantity: 23
+      "Name on PCB": [D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D24, D25]
     -
-      value: 1N5817
-      quantity: 2
-      nameOnPCB: [(black color) D22, D23]
+      Value: 1N5817
+      Quantity: 2
+      "Name on PCB": [(black color) D22, D23]
   Ferrite:
     -
-      quantity: 2
-      nameOnPCB: [FERRITE+, FERRITE-]
+      Quantity: 2
+      "Name on PCB": [FERRITE+, FERRITE-]
   IC Sockets:
     -
-      quantity: 8
-      nameOnPCB: [IC1, IC2, IC3, IC4, IC5, IC6, IC7, IC8]
+      Quantity: 8
+      "Name on PCB": [IC1, IC2, IC3, IC4, IC5, IC6, IC7, IC8]
   ICs:
     -
-      value: TL074/84
-      quantity: 8
-      nameOnPCB: [IC1, IC2, IC3, IC4, IC5, IC6, IC7, IC8]
+      Value: TL074/84
+      Quantity: 8
+      "Name on PCB": [IC1, IC2, IC3, IC4, IC5, IC6, IC7, IC8]
   Capacitors:
     -
-      value: 100n
-      quantity: 20
-      code: 104
-      nameOnPCB: [C3, C4, C5, C7, C8, C12, C13, C14, C17, C18, C19, C21, C23, C24, C25, C26, C27, C28, C31, C32]
+      Value: 100n
+      Quantity: 20
+      Code: 104
+      "Name on PCB": [C3, C4, C5, C7, C8, C12, C13, C14, C17, C18, C19, C21, C23, C24, C25, C26, C27, C28, C31, C32]
     -
-      value: 100p
-      quantity: 2
-      code: 101
-      nameOnPCB: [C20, C22]
+      Value: 100p
+      Quantity: 2
+      Code: 101
+      "Name on PCB": [C20, C22]
     -
-      value: 560p
-      quantity: 2
-      code: 561
-      nameOnPCB: [C10, C11]
+      Value: 560p
+      Quantity: 2
+      Code: 561
+      "Name on PCB": [C10, C11]
     -
-      value: 2n2 Polyestirene
-      quantity: 2
-      code: (Silver color)
-      nameOnPCB: [C15, C16]
+      Value: 2n2 Polyestirene
+      Quantity: 2
+      Code: (Silver color)
+      "Name on PCB": [C15, C16]
   Electrolytic Capacitors:
     -
-      value: 10uf
-      quantity: 2
-      code: 10ufsad
-      nameOnPCB: [C29, C30]
+      Value: 10uf
+      Quantity: 2
+      Code: 10ufsad
+      "Name on PCB": [C29, C30]
   Transistors:
     -
-      value: 2n3904
-      quantity: 4
-      nameOnPCB: [T1, T2, T3, T4]
+      Value: 2n3904
+      Quantity: 4
+      "Name on PCB": [T1, T2, T3, T4]
   Male Pin Headers:
     -
-      quantity: 2
+      Quantity: 2
   Power Connector:
     -
-      quantity: 1
+      Quantity: 1
 Control PCB:
   Resistors:
     -
-      value: 1k
-      quantity: 13
-      code: [brown, black, black, brown, brown]
-      nameOnPCB: [R100, R101, R102, R103, R105, R106, R118, R119, R123, R125, R134, R135, R140]
+      Value: 1k
+      Quantity: 13
+      Code: [brown, black, black, brown, brown]
+      "Name on PCB": [R100, R101, R102, R103, R105, R106, R118, R119, R123, R125, R134, R135, R140]
     -
-      value: 100k
-      quantity: 10
-      code: [brown, black, black, orange, brown]
-      nameOnPCB: [R110, R111, R112, R115, R120, R121, R128, R131, R148, R149]
+      Value: 100k
+      Quantity: 10
+      Code: [brown, black, black, orange, brown]
+      "Name on PCB": [R110, R111, R112, R115, R120, R121, R128, R131, R148, R149]
     -
-      value: 2k2
-      quantity: 6
-      code: [red, red, black, brown, brown ]
-      nameOnPCB: [R104, R107, R108, R109, R136, R137]
+      Value: 2k2
+      Quantity: 6
+      Code: [red, red, black, brown, brown ]
+      "Name on PCB": [R104, R107, R108, R109, R136, R137]
     -
-      value: 10k
-      quantity: 6
-      code: [brown, black, black, red, brown]
-      nameOnPCB: [R116, R117, R122, R124, R145, R147]
+      Value: 10k
+      Quantity: 6
+      Code: [brown, black, black, red, brown]
+      "Name on PCB": [R116, R117, R122, R124, R145, R147]
     -
-      value: 24k
-      quantity: 4
-      code: [red, yellow, black, red, brown]
-      nameOnPCB: [R138, R142, R143, R146]
+      Value: 24k
+      Quantity: 4
+      Code: [red, yellow, black, red, brown]
+      "Name on PCB": [R138, R142, R143, R146]
     -
-      value: 110k
-      quantity: 4
-      code: [brown, brown, black, orange, brown]
-      nameOnPCB: [R113, R114, R126, R127]
+      Value: 110k
+      Quantity: 4
+      Code: [brown, brown, black, orange, brown]
+      "Name on PCB": [R113, R114, R126, R127]
     -
-      value: 4k7
-      quantity: 3
-      code: [yellow, violet, black, brown, brown]
-      nameOnPCB: [R129, R130, R139]
+      Value: 4k7
+      Quantity: 3
+      Code: [yellow, violet, black, brown, brown]
+      "Name on PCB": [R129, R130, R139]
     -
-      value: 22k
-      quantity: 2
-      code: [red, red, black, red, brown]
-      nameOnPCB: [R132, R133]
+      Value: 22k
+      Quantity: 2
+      Code: [red, red, black, red, brown]
+      "Name on PCB": [R132, R133]
     -
-      value: 4M7
-      quantity: 2
-      code: [yellow, violet, black, yellow, brown]
-      nameOnPCB: [R141, R144]
+      Value: 4M7
+      Quantity: 2
+      Code: [yellow, violet, black, yellow, brown]
+      "Name on PCB": [R141, R144]
   Diodes:
     -
-      value: 1N4148
-      quantity: 4
-      nameOnPCB: [D100, D101, D102, D103]
+      Value: 1N4148
+      Quantity: 4
+      "Name on PCB": [D100, D101, D102, D103]
   Capacitors:
     -
-      value: 470n Polyester
-      quantity: 2
-      code: .47k
-      nameOnPCB: [C104, C105]
+      Value: 470n Polyester
+      Quantity: 2
+      Code: .47k
+      "Name on PCB": [C104, C105]
     -
-      value: 100n
-      quantity: 2
-      code: 104
-      nameOnPCB: [C102, C103]
+      Value: 100n
+      Quantity: 2
+      Code: 104
+      "Name on PCB": [C102, C103]
     -
-      value: 10n
-      quantity: 4
-      code: 103
-      nameOnPCB: [C106, C107, C108, C109]
+      Value: 10n
+      Quantity: 4
+      Code: 103
+      "Name on PCB": [C106, C107, C108, C109]
     -
-      value: 47n Polyester
-      quantity: 2
-      code: 47n
-      nameOnPCB: [C100, C101]
+      Value: 47n Polyester
+      Quantity: 2
+      Code: 47n
+      "Name on PCB": [C100, C101]
   Transistors:
     -
-      value: 2n3904
-      quantity: 4
-      nameOnPCB: [T100, T101, T102, T103]
+      Value: 2n3904
+      Quantity: 4
+      "Name on PCB": [T100, T101, T102, T103]
     -
-      value: 2n3906
-      quantity: 2
-      nameOnPCB: [T104, T105]
+      Value: 2n3906
+      Quantity: 2
+      "Name on PCB": [T104, T105]
   Trimmers:
     -
-      value: 10k
-      quantity: 2
-      nameOnPCB: [SYMETRY_A, SYMETRY_B]
+      Value: 10k
+      Quantity: 2
+      "Name on PCB": [SYMETRY_A, SYMETRY_B]
   Female Pin Headers:
     -
-      quantity: 2
-      nameOnPCB: [To_con_A, To_con_B]
+      Quantity: 2
+      "Name on PCB": [To_con_A, To_con_B]
   Faders:
     -
-      quantity: 4
-      nameOnPCB: [FALL_POT, FALL_POT_B, RISE_POT, RISE_POT_B]
+      Quantity: 4
+      "Name on PCB": [FALL_POT, FALL_POT_B, RISE_POT, RISE_POT_B]
   Spacers:
     -
-      quantity: 2
+      Quantity: 2
   Minijacks:
     -
-      quantity: ?
+      Quantity: '?'
   Potentiometers:
     -
-      value: Dual (6pin) 10K
-      quantity: 2
-      nameOnPCB: [SHAPE_A, SHAPE_B]
+      Value: Dual (6pin) 10K
+      Quantity: 2
+      "Name on PCB": [SHAPE_A, SHAPE_B]
     -
-      value: Single (3pin) 1M
-      quantity: 1
-      nameOnPCB: [Crossfader]
+      Value: Single (3pin) 1M
+      Quantity: 1
+      "Name on PCB": [Crossfader]
   Switches:
     -
       type: Single two position
-      quantity: 2
-      nameOnPCB: [CYCLE_A, CYCLE_B]
+      Quantity: 2
+      "Name on PCB": [CYCLE_A, CYCLE_B]
     -
       type: Single tree position
-      quantity: 2
-      nameOnPCB: [RANGE_1, RANGE_2]
+      Quantity: 2
+      "Name on PCB": [RANGE_1, RANGE_2]
     -
       type: Push button
-      quantity: 2
-      nameOnPCB: [M_TRIG_A, M_TRIG_B]
+      Quantity: 2
+      "Name on PCB": [M_TRIG_A, M_TRIG_B]
   LEDs:
     -
-      quantity: 9
-      nameOnPCB: [F_A_LED, F_B_LED, LED_A, LED_A>B, LED_B, LED_MAX, LED_MIN, R_A_LED, R_B_LED]
+      Quantity: 9
+      "Name on PCB": [F_A_LED, F_B_LED, LED_A, LED_A>B, LED_B, LED_MAX, LED_MIN, R_A_LED, R_B_LED]
