@@ -3,77 +3,77 @@ Main PCB:
     -
       Value: 100k
       Quantity: 32
-      Code: [brown, black, black, orange, brown]
+      Code: [Brown, black, black, orange, brown]
       "Name on PCB": [R6, R8, R9, R10, R11, R14, R15, R18, R23, R24, R26, R28, R30, R32, R33, R34, R35, R37, R38, R41, R42, R48, R49,R54, R56, R57, R59, R61, R69, R80, R81, R85]
     -
       Value: 10k
       Quantity: 16
-      Code: [brown, black, black, red, brown]
+      Code: [Brown, black, black, red, brown]
       "Name on PCB": [R17,R21, R22, R31, R46, R55, R60, R63, R66, R67, R71, R75, R82, R83, R84, R87]
     -
       Value: 560k
       Quantity: 6
-      Code: [green, blue, black, orange, brown]
+      Code: [Green, blue, black, orange, brown]
       "Name on PCB": [R1, R4, R12, R27, R72, R74]
     -
       Value: 1M
       Quantity: 6
-      Code: [brown, black, black, yellow, brown]
+      Code: [Brown, black, black, yellow, brown]
       "Name on PCB": [R19, R36, R39, R40, R65, R76]
     -
       Value: 2k2
       Quantity: 4
-      Code: [red, red, black, brown, brown]
+      Code: [Red, red, black, brown, brown]
       "Name on PCB": [R43, R44, R45, R47]
     -
       Value: 3M
       Quantity: 4
-      Code: [orange, black, black, yellow, brown]
+      Code: [Orange, black, black, yellow, brown]
       "Name on PCB": [R13, R16, R20, R29 (put it in vertical)]
     -
       Value: 1k
       Quantity: 4
-      Code: [brown, black, black, brown, brown]
+      Code: [Brown, black, black, brown, brown]
       "Name on PCB": [R79, R88, R89, R90]
     -
       Value: 4K7
       Quantity: 4
-      Code: [yellow, violet, black, brown, brown]
+      Code: [Yellow, violet, black, brown, brown]
       "Name on PCB": [R70, R73, R77, R78]
     -
       Value: 110k
       Quantity: 4
-      Code: [brown, brown, black, orange, brown]
+      Code: [Brown, brown, black, orange, brown]
       "Name on PCB": [R2, R3, R50, R51]
     -
       Value: 22k
       Quantity: 2
-      Code: [red, red, black, red, brown]
+      Code: [Red, red, black, red, brown]
       "Name on PCB": [R68, R86]
     -
       Value: 180k
       Quantity: 2
-      Code: [brown, gray, black, orange, brown]
+      Code: [Brown, gray, black, orange, brown]
       "Name on PCB": [R53, R64]
     -
       Value: 470k
       Quantity: 2
-      Code: [yellow, violet, black, orange, brown]
+      Code: [Yellow, violet, black, orange, brown]
       "Name on PCB": [R58, R62]
     -
       Value: 75k
       Quantity: 1
-      Code: [violet, green, black, red, brown]
+      Code: [Violet, green, black, red, brown]
       "Name on PCB": [R25]
     -
       Value: 10M
       Quantity: 1
-      Code: [brown, black, black, green, brown]
+      Code: [Brown, black, black, green, brown]
       "Name on PCB": [R5]
     -
       Value: 20k
       Quantity: 1
-      Code: [red, black, black, red, brown]
+      Code: [Red, black, black, red, brown]
       "Name on PCB": [R52]
   Diodes:
     -
@@ -83,7 +83,7 @@ Main PCB:
     -
       Value: 1N5817
       Quantity: 2
-      "Name on PCB": [(black color) D22, D23]
+      "Name on PCB": [(Black color) D22, D23]
   Ferrite:
     -
       Quantity: 2
@@ -114,7 +114,7 @@ Main PCB:
       Code: 561
       "Name on PCB": [C10, C11]
     -
-      Value: 2n2 Polyestirene
+      Value: 2n2 Polyestyrene
       Quantity: 2
       Code: (Silver color)
       "Name on PCB": [C15, C16]
@@ -140,47 +140,47 @@ Control PCB:
     -
       Value: 1k
       Quantity: 13
-      Code: [brown, black, black, brown, brown]
+      Code: [Brown, black, black, brown, brown]
       "Name on PCB": [R100, R101, R102, R103, R105, R106, R118, R119, R123, R125, R134, R135, R140]
     -
       Value: 100k
       Quantity: 10
-      Code: [brown, black, black, orange, brown]
+      Code: [Brown, black, black, orange, brown]
       "Name on PCB": [R110, R111, R112, R115, R120, R121, R128, R131, R148, R149]
     -
       Value: 2k2
       Quantity: 6
-      Code: [red, red, black, brown, brown ]
+      Code: [Red, red, black, brown, brown ]
       "Name on PCB": [R104, R107, R108, R109, R136, R137]
     -
       Value: 10k
       Quantity: 6
-      Code: [brown, black, black, red, brown]
+      Code: [Brown, black, black, red, brown]
       "Name on PCB": [R116, R117, R122, R124, R145, R147]
     -
       Value: 24k
       Quantity: 4
-      Code: [red, yellow, black, red, brown]
+      Code: [Red, yellow, black, red, brown]
       "Name on PCB": [R138, R142, R143, R146]
     -
       Value: 110k
       Quantity: 4
-      Code: [brown, brown, black, orange, brown]
+      Code: [Brown, brown, black, orange, brown]
       "Name on PCB": [R113, R114, R126, R127]
     -
       Value: 4k7
       Quantity: 3
-      Code: [yellow, violet, black, brown, brown]
+      Code: [Yellow, violet, black, brown, brown]
       "Name on PCB": [R129, R130, R139]
     -
       Value: 22k
       Quantity: 2
-      Code: [red, red, black, red, brown]
+      Code: [Red, red, black, red, brown]
       "Name on PCB": [R132, R133]
     -
       Value: 4M7
       Quantity: 2
-      Code: [yellow, violet, black, yellow, brown]
+      Code: [Yellow, violet, black, yellow, brown]
       "Name on PCB": [R141, R144]
   Diodes:
     -
