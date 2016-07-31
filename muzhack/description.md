@@ -1,6 +1,6 @@
 # Rampage
 
-**Please note that this is an unofficial project page, the official one is [here](http://www.befaco.org/en/spring-reverb/).**
+**Please note that this is an unofficial project page, the official one is [here](http://www.befaco.org/en/rampage/).**
 
 **The Rampage** is Befaco’s approach to an old invention: the Serge/Buchla ramp generator.
 
