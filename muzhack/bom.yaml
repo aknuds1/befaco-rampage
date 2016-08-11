@@ -4,12 +4,12 @@ Main PCB:
       Value: 100k
       Quantity: 32
       Code: [Brown, black, black, orange, brown]
-      "Name on PCB": [R6, R8, R9, R10, R11, R14, R15, R18, R23, R24, R26, R28, R30, R32, R33, R34, R35, R37, R38, R41, R42, R48, R49,R54, R56, R57, R59, R61, R69, R80, R81, R85]
+      "Name on PCB": [R6, R8, R9, R10, R11, R14, R15, R18, R23, R24, R26, R28, R30, R32, R33, R34, R35, R37, R38, R41, R42, R48, R49, R54, R56, R57, R59, R61, R69, R80, R81, R85]
     -
       Value: 10k
       Quantity: 16
       Code: [Brown, black, black, red, brown]
-      "Name on PCB": [R17,R21, R22, R31, R46, R55, R60, R63, R66, R67, R71, R75, R82, R83, R84, R87]
+      "Name on PCB": [R17, R21, R22, R31, R46, R55, R60, R63, R66, R67, R71, R75, R82, R83, R84, R87]
     -
       Value: 560k
       Quantity: 6
@@ -114,7 +114,7 @@ Main PCB:
       Code: 561
       "Name on PCB": [C10, C11]
     -
-      Value: 2n2 Polyestyrene
+      Value: 2n2 Polystyrene
       Quantity: 2
       Code: (Silver color)
       "Name on PCB": [C15, C16]
